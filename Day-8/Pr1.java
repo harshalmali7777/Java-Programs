@@ -7,3 +7,4 @@ public class Pr1 {
         System.out.println(a);
     }
 }
+//10
